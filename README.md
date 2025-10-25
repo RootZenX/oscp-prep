@@ -1,5 +1,3 @@
-  oscp-prep
-My OSCP 1-hour/day study progress and notes
 👋 Hi, I'm Raazia 
 🚀 Aspiring Ethical Hacker | OSCP Prep (1 Hour/Day) 
 🧠 Psychology Graduate | 💻 Learning Cybersecurity & Ethical Hacking  
