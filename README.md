@@ -6,7 +6,7 @@
 🌱 Current Focus
 -I'm building real hands-on hacking skills through daily 1-hour practice.My goal is to learn by doing,document my progress,and turn my knowledge into freelance opportunities in cybersecurity education and writing.
 
-##Current Learning Track:
+♟️Current Learning Track:
 - Linux & Command-Line Skills  
 - Web Exploitation Basics (Natas / Juice Shop)  
 - Privilege Escalation on Linux  
